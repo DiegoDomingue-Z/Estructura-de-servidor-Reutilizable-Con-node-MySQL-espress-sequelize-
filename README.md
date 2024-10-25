@@ -10,3 +10,8 @@ para instalar todos los modulos coloca en la consola
 * express
 * dontenv
 * cors
+
+# para usar este server debes tener instalado xammp 
+* crea primero la base de datos llamada restserver
+* despues crea las tablas 
+
